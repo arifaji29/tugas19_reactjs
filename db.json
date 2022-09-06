@@ -8,13 +8,6 @@
       "tanggal_lahir": "1993-03-21"
     },
     {
-      "id": 1572783633332,
-      "nama_karyawan": "Herry",
-      "jabatan": "Akuntan",
-      "jenis_kelamin": "laki-laki",
-      "tanggal_lahir": "1992-04-12"
-    },
-    {
       "id": 1572783633333,
       "nama_karyawan": "Doni",
       "jabatan": "Programmer",
@@ -27,6 +20,13 @@
       "jabatan": "marketing",
       "jenis_kelamin": "laki-laki",
       "tanggal_lahir": "1996-03-12"
+    },
+    {
+      "id": 1572783633335,
+      "nama_karyawan": "Kevin",
+      "jabatan": "Purchasing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1995-07-12"
     }
   ]
 }
