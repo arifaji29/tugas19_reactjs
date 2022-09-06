@@ -20,6 +20,20 @@
       "jabatan": "Akuntan",
       "jenis_kelamin": "laki-laki",
       "tanggal_lahir": "1992-04-12"
+    },
+    {
+      "id": 1572783633333,
+      "nama_karyawan": "Doni",
+      "jabatan": "Programmer",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "2000-12-03"
+    },
+    {
+      "id": 1572783633334,
+      "nama_karyawan": "bayu",
+      "jabatan": "marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1996-03-12"
     }
   ]
 }
