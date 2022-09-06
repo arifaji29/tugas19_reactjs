@@ -132,9 +132,18 @@ class App extends Component {
 
       <>
 
-        <Navbar bg="primary" variant="dark" >
+        <Navbar bg="light" variant="light" >
           <Container>
-            <Navbar.Brand href="#home">Data Karyawan PT Sidopora</Navbar.Brand>
+          <Navbar.Brand href="#home">
+            <img
+              alt=""
+              src="https://live.staticflickr.com/65535/52339037419_16435085cd_o.png"
+              width="50"
+              height="40"
+              className="d-inline-block align-top"
+            />{' '}
+          Data Karyawan PT Sidopora
+          </Navbar.Brand>
           </Container>
         </Navbar>
 
